@@ -1,6 +1,8 @@
 # A Cloud Guru: Introduction to CloudFormation
 
 ## Samples Created By: Nandish Desai
+## Original github link
+- [GitHub Link](https://github.com/ACloudGuru/intro-to-CloudFormation_AC)
 
 ## Lessons
 
